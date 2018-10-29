@@ -1,2 +1,3 @@
 # Exploring Gun Deaths in the USA
-Dataquest Guided Project on Exploring Gun Deaths in The USA
+This was a Dataquest Guided Project on Exploring Gun Deaths in The USA. No fancy frameworks
+have been used.
